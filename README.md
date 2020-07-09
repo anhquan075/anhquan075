@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on University Of Information Technology - VNU
+- 🔭 I’m currently working on University of Information Technology - VNU
 - 🌱 I’m currently learning Computer Science - Fresher
 - 👯 I’m looking to collaborate on chatbot, NLP, ML, Computer Vision,...
 - 💬 Ask me about anything about you want from me
