@@ -54,5 +54,5 @@
 </details>
 
 [website]: https://anhquan075.github.io
-[facebook]: https://facebook.com/aquandzk0soai
+[facebook]: https://www.facebook.com/anhquandz0soai
 [instagram]: https://instagram.com/aquan1sme
