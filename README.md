@@ -5,8 +5,6 @@
 - 🔭 I’m currently studying at UIT - VNUHCM
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other programmers who are interested in Chatbot, Computer Vision, etc
-- 🥅 2020 Goals: Just wanna suffer this year successfully
-- ⚡ Fun fact: I love to play a organ or guitar
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Nguyen Anh Quan Spotify Playing" width="350" />](https://open.spotify.com/user/uiolx0ni2lz3n4mdjvpepv47s?si=yzQhdH9GS0C-zs1oNj3F9w)
