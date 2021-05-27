@@ -32,25 +32,6 @@
 <br />
 <br />
 
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [C++ Tutorial](http://tutorials.mmlab.uit.edu.vn/index.php/2020/06/04/bai-1-gioi-thieu-tong-quan-ve-c/)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](http://tutorials.mmlab.uit.edu.vn)
-
----
-</details>
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=anhquan075&show_icons=true&hide_border=true" />
-
-</details>
-
 [website]: https://anhquan075.github.io
 [facebook]: https://www.facebook.com/anhquandz0soai
 [instagram]: https://instagram.com/aquan1sme
