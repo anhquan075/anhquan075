@@ -1,7 +1,5 @@
 ### Hi there, I'm Anh Quan 👋
 
-## I'm just a loser with a big dream
-
 - 🔭 I’m currently studying at UIT - VNUHCM
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other programmers who are interested in Chatbot, Computer Vision, etc
