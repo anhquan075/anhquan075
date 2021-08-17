@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate with other programmers who are interested in Chatbot, Computer Vision, etc
 
 ### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Nguyen Anh Quan Spotify Playing" width="350" />](https://open.spotify.com/user/uiolx0ni2lz3n4mdjvpepv47s?si=yzQhdH9GS0C-zs1oNj3F9w)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mmqejlnutjnjeplvrecxb3ff3m)
 
 ### Connect with me:
 
