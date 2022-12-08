@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate with other programmers who are interested in Chatbot, Computer Vision, etc
 
 ### Spotify Playing 🎧
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mmqejlnutjnjeplvrecxb3ff3m)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=uiolx0ni2lz3n4mdjvpepv47s)
 
 ### Connect with me:
 
